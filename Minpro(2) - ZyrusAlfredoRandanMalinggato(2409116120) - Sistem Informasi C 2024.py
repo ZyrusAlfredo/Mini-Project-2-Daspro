@@ -151,9 +151,9 @@ Akun = {
 }
 
 def login():
-    print("---------------------------------------------------------------------------")    
-    print("Selamat Datang! Di Sistem GoCleaning Zyrus, Silahkan Login Terlebih Dahulu")
-    print("---------------------------------------------------------------------------")
+    print('+' + '-'* 76 + '+')
+    print('| Selamat Datang! Di Sistem GoCleaning Zyrus, Silahkan Login Terlebih Dahulu |')
+    print('+' + '-'* 76 + '+')
     while True:
         Username = input("Username: ")
         Password = input("Password: ")
