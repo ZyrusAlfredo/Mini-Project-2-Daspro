@@ -8,9 +8,10 @@ Tema : Pemesanan Jasa Kebersihan
 
 # Flowchart
 
-![Mini Project (2) - Daspro (Zyrus Alfredo Randan Malinggato - 2409116120)](https://github.com/user-attachments/assets/bfa7df98-42b3-4227-ad90-ec2cec024bdc)
+![Mini Project (2) - Daspro (Zyrus Alfredo Randan Malinggato - 2409116120)](https://github.com/user-attachments/assets/ec545c66-dbff-4627-8f41-f48b5d1a45a3)
 
-Gambar diatas merupakan Flowchart dari program yang saya buat
+Gambar diatas merupakan Flowchart dari program yang saya buat\
+Link GDrive Flowchart >> https://drive.google.com/drive/folders/1xD2lJlqzRFqDggOYVMMBWBJX6J3KZ7DL?usp=drive_link
 
 # Output
 
